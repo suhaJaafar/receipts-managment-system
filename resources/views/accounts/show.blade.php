@@ -16,8 +16,8 @@
         <table class="table">
             <thead>
                 <tr style="font-size:19px;" class="">
-                    <th>الاسم</th>
-                    <th>الايميل</th>
+                    <th>الاسم :</th>
+                    <th>الايميل :</th>
                     <th>الحالة</th>
                     <th>تاريخ الانشاء</th>
                     <th> حذف الحساب</th>
